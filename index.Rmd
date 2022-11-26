@@ -289,7 +289,7 @@ kable_styling(vehicle_table, "striped", position = "left", font_size = 12, html_
 ```
   
 
-# Conclusions
+# Conclusions Good conclusion! An additional factor I would potentially account for is the type of supermarkets surveyed (ex. Wegmans, Aldi, Tops, etc.) and the abundance of the supermarket types seen in your different economic neighborhoods (if you have access to this information).
 
 Results for the median household income data was a bit surprising. Given that supermarkets tend to favor more affluent neighborhoods, expectations were that as each income bracket increased, the distance would decrease. While the highest earners had to travel the least distance, the other three brackets did not show a linear progression of decreasing distances as income increased. However, the vehicle access data yielded expected results. As the proportion of households access to vehicles decreased, the average distance to supermarkets increased. This is expected because people without access to a vehicle typically come from vulnerable communities which supermarkets are less inclined to enter. 
 
